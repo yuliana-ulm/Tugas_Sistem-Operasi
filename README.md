@@ -1,2 +1,3 @@
 # Tugas Sistem Operasi
-Tugas untuk mendeskripsikan Laptop yang digunakan serta tentang sejarah komputer
+Tugas 1 : Tugas untuk mendeskripsikan Laptop yang digunakan serta tentang sejarah komputer
+Tugas 2 : Tugas menterjemahkan e-book "Modern"
